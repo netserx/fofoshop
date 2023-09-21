@@ -2,18 +2,18 @@
 
 :root {
     /* ============= COLORS ============= */
-    --white-100: #fff;
-    --white-95: #f5f5f5;
-    --white-85: #e5e5e5;
+    --white-100: #ffffff;
+    --white-95: ;
+    --white-85: #828ed3;
     --white-100-opcty-212: #ffffffd4;
     --white-100-opcty-163: #db0707a3;
-    --black-100: #9ae069;
-    --black-75: #a4d382;
-    --black-5\11: #a4d382;
-    --black-4\13: #9ae069;
-    --black-100-opcty-71: #00000047;
-    --dark-lead: #a4d382;
-    --dark-lead-hover: #95ca72;
+    --black-100: #8369e0;
+    --black-75: #828ed3;
+    --black-5\11: #8283d3;
+    --black-4\13: #696be0;
+    --black-100-opcty-71: #141122;
+    --dark-lead: #8291d3;
+    --dark-lead-hover: #727bca;
     --red-62: #ff173e;
 
     /* ============= PADDING ============= */
